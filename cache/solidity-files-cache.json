@@ -47,7 +47,7 @@
       "versionRequirement": ">=0.5.0",
       "artifacts": {
         "DSTest": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "test.sol/DSTest.json"
+          "0.8.12+commit.f00d7308.Linux.gcc": "test.sol/DSTest.json"
         }
       }
     },
@@ -90,12 +90,15 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "CommonBase": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "Base.sol/CommonBase.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "Base.sol/CommonBase.json"
         },
         "ScriptBase": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "Base.sol/ScriptBase.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "Base.sol/ScriptBase.json"
         },
         "TestBase": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "Base.sol/TestBase.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "Base.sol/TestBase.json"
         }
       }
@@ -191,7 +194,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdAssertions": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "StdAssertions.sol/StdAssertions.json"
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdAssertions.sol/StdAssertions.json"
         }
       }
     },
@@ -233,6 +236,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdChains": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdChains.sol/StdChains.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdChains.sol/StdChains.json"
         }
       }
@@ -276,9 +280,11 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdCheats": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdCheats.sol/StdCheats.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdCheats.sol/StdCheats.json"
         },
         "StdCheatsSafe": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdCheats.sol/StdCheatsSafe.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdCheats.sol/StdCheatsSafe.json"
         }
       }
@@ -319,7 +325,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdError": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "StdError.sol/stdError.json"
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdError.sol/stdError.json"
         }
       }
     },
@@ -359,7 +365,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdInvariant": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "StdInvariant.sol/StdInvariant.json"
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdInvariant.sol/StdInvariant.json"
         }
       }
     },
@@ -401,6 +407,7 @@
       "versionRequirement": ">=0.6.0, <0.9.0",
       "artifacts": {
         "stdJson": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdJson.sol/stdJson.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdJson.sol/stdJson.json"
         }
       }
@@ -441,6 +448,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdMath": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdMath.sol/stdMath.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdMath.sol/stdMath.json"
         }
       }
@@ -483,9 +491,11 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "stdStorage": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdStorage.sol/stdStorage.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdStorage.sol/stdStorage.json"
         },
         "stdStorageSafe": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdStorage.sol/stdStorageSafe.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdStorage.sol/stdStorageSafe.json"
         }
       }
@@ -528,7 +538,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "StdStyle": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "StdStyle.sol/StdStyle.json"
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdStyle.sol/StdStyle.json"
         }
       }
     },
@@ -571,6 +581,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "StdUtils": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "StdUtils.sol/StdUtils.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "StdUtils.sol/StdUtils.json"
         }
       }
@@ -628,7 +639,7 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Test": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "Test.sol/Test.json"
+          "0.8.12+commit.f00d7308.Linux.gcc": "Test.sol/Test.json"
         }
       }
     },
@@ -668,9 +679,11 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "Vm": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "Vm.sol/Vm.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "Vm.sol/Vm.json"
         },
         "VmSafe": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "Vm.sol/VmSafe.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "Vm.sol/VmSafe.json"
         }
       }
@@ -711,6 +724,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "console.sol/console.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "console.sol/console.json"
         }
       }
@@ -751,6 +765,7 @@
       "versionRequirement": ">=0.4.22, <0.9.0",
       "artifacts": {
         "console2": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "console2.sol/console2.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "console2.sol/console2.json"
         }
       }
@@ -791,7 +806,130 @@
       "versionRequirement": ">=0.6.2, <0.9.0",
       "artifacts": {
         "IMulticall3": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "IMulticall3.sol/IMulticall3.json",
           "0.8.19+commit.7dd6d404.Linux.gcc": "IMulticall3.sol/IMulticall3.json"
+        }
+      }
+    },
+    "lib/solmate/src/test/utils/mocks/MockERC20.sol": {
+      "lastModificationDate": 1680290185546,
+      "contentHash": "8cec77cb7dcd2d03e318bc0916a925f3",
+      "sourceName": "lib/solmate/src/test/utils/mocks/MockERC20.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [
+        "lib/solmate/src/tokens/ERC20.sol"
+      ],
+      "versionRequirement": ">=0.8.0",
+      "artifacts": {
+        "MockERC20": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "MockERC20.sol/MockERC20.json"
+        }
+      }
+    },
+    "lib/solmate/src/tokens/ERC20.sol": {
+      "lastModificationDate": 1680290185730,
+      "contentHash": "0c7c7ada139062536af09d69d96d395c",
+      "sourceName": "lib/solmate/src/tokens/ERC20.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": ">=0.8.0",
+      "artifacts": {
+        "ERC20": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "ERC20.sol/ERC20.json"
+        }
+      }
+    },
+    "lib/solmate/src/utils/ReentrancyGuard.sol": {
+      "lastModificationDate": 1680290185919,
+      "contentHash": "cf9480663950b4091d14b174c3ec0414",
+      "sourceName": "lib/solmate/src/utils/ReentrancyGuard.sol",
+      "solcConfig": {
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200
+          },
+          "metadata": {
+            "bytecodeHash": "ipfs",
+            "appendCBOR": true
+          },
+          "outputSelection": {
+            "*": {
+              "": [
+                "ast"
+              ],
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ]
+            }
+          },
+          "evmVersion": "london",
+          "libraries": {}
+        }
+      },
+      "imports": [],
+      "versionRequirement": ">=0.8.0",
+      "artifacts": {
+        "ReentrancyGuard": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "ReentrancyGuard.sol/ReentrancyGuard.json"
         }
       }
     },
@@ -848,10 +986,10 @@
         }
       }
     },
-    "src/Counter.sol": {
-      "lastModificationDate": 1680285224562,
-      "contentHash": "ae6c800a2b4c57768024d6e9423d39e8",
-      "sourceName": "src/Counter.sol",
+    "src/Contract.sol": {
+      "lastModificationDate": 1680293755319,
+      "contentHash": "c171c03e59f252868aa5412434875173",
+      "sourceName": "src/Contract.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
@@ -880,18 +1018,21 @@
           "libraries": {}
         }
       },
-      "imports": [],
-      "versionRequirement": "^0.8.13",
+      "imports": [
+        "lib/solmate/src/tokens/ERC20.sol",
+        "lib/solmate/src/utils/ReentrancyGuard.sol"
+      ],
+      "versionRequirement": "=0.8.12",
       "artifacts": {
-        "Counter": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "Counter.sol/Counter.json"
+        "Flashloaner": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "Contract.sol/Flashloaner.json"
         }
       }
     },
-    "test/Counter.t.sol": {
-      "lastModificationDate": 1680285224567,
-      "contentHash": "b1a6521ba9c61d5266bab1fc9a057d68",
-      "sourceName": "test/Counter.t.sol",
+    "test/Flashloan.t.sol": {
+      "lastModificationDate": 1680293815007,
+      "contentHash": "cb12f1c44934abdf71adbe15811abf0f",
+      "sourceName": "test/Flashloan.t.sol",
       "solcConfig": {
         "settings": {
           "optimizer": {
@@ -938,12 +1079,15 @@
         "lib/forge-std/src/console.sol",
         "lib/forge-std/src/console2.sol",
         "lib/forge-std/src/interfaces/IMulticall3.sol",
-        "src/Counter.sol"
+        "lib/solmate/src/test/utils/mocks/MockERC20.sol",
+        "lib/solmate/src/tokens/ERC20.sol",
+        "lib/solmate/src/utils/ReentrancyGuard.sol",
+        "src/Contract.sol"
       ],
-      "versionRequirement": "^0.8.13",
+      "versionRequirement": "=0.8.12",
       "artifacts": {
-        "CounterTest": {
-          "0.8.19+commit.7dd6d404.Linux.gcc": "Counter.t.sol/CounterTest.json"
+        "FlashloanerTest": {
+          "0.8.12+commit.f00d7308.Linux.gcc": "Flashloan.t.sol/FlashloanerTest.json"
         }
       }
     }
